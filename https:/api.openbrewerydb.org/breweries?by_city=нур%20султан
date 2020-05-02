@@ -1,0 +1,12 @@
+[
+  {
+    id: 299,
+    name: "Медицинский университет Астана",
+    brewery_type: "micro",
+    street: "ул. Бейбитшилик 49а",
+    city: "Нур-Султан",
+    website_url: "http://almanacbeer.com",
+    tag_list: []
+  },
+  ...
+]
