@@ -1,0 +1,24 @@
+[
+  {
+    id: 100,
+    name: "Медицинский университет Астана ",
+    brewery_type: "micro",
+    street: "Бейбитшилик 49а",
+    city: "Нур-Султан"
+    website_url: "http://almanacbeer.com",
+    updated_at: "2018-08-23T23:24:11.758Z",
+    tag_list: []
+  },
+  
+    {
+    id: 120,
+    name: "Университет Нархоз ",
+    brewery_type: "micro",
+    street: "ул.Жандосова 55",
+    city: "Алматы"
+    website_url: "http://almanacbeer.com",
+    updated_at: "2018-08-23T23:24:11.758Z",
+    tag_list: []
+  },
+ 
+]
