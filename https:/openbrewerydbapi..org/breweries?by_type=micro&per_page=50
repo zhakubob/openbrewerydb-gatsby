@@ -1,0 +1,17 @@
+[{"id":2,"name":"Казахский национальный педагогический университет имени Абая"
+,"brewery_type":"micro"
+,"street":"просп. Достык 13"
+,"city":"Алматы","profession":"Педагогика"
+,"postal_code":"35222-1932"
+,"website_url":"http://kaznpu.kz/ru/"
+,"updated_at":"2018-08-23T23:19:57.825Z"
+,"tag_list":[]},
+{"id":2,"name":"Казахский национальный медицинский университет имени С. Д. Асфендиярова"
+,"brewery_type":"micro"
+,"street":"ул.Толе Би 94"
+,"city":"Алматы
+","profession":"Медицина"
+,"postal_code":"35222-1932"
+,"website_url":"https://kaznmu.kz/rus/"
+,"updated_at":"2018-08-23T23:19:57.825Z"
+,"tag_list":[]}
