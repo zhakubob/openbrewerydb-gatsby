@@ -1,0 +1,47 @@
+[
+  {
+    id: 299,
+    name: "Казахский национальный педагогический университет имени Абая",
+    brewery_type: "micro",
+    street: "ул. Толе Би 94",
+    city: "Алматы",
+    profession: "Педагогика",
+    website_url: "http://kaznpu.kz/ru/",
+    updated_at: "2018-08-23T23:24:11.758Z",
+    tag_list: []
+  },
+   {
+    id: 300,
+    name: "Университет имени Сулеймана Демиреля",
+    brewery_type: "micro",
+    street: "просп. Абылай Хана, 1/1",
+    city: "Каскелен",
+    profession: "Педагогика",
+    website_url: "https://sdu.edu.kz/ru/suleyman-demirel-university-ru/",
+    updated_at: "2018-08-23T23:24:11.758Z",
+    tag_list: []
+  },
+    {
+    id: 301,
+    name: "Аркалыкский государственный педагогический институт им. Ы. Алтынсарина",
+    brewery_type: "micro",
+    street: "ул. Толе Би 9ул. Маясовой, 324",
+    city: "Аркалык",
+    profession: "Педагогика",
+    website_url: "https://api.kz/index.php/ru/",
+    updated_at: "2018-08-23T23:24:11.758Z",
+    tag_list: []
+  },
+
+ {
+    id: 302,
+    name: "Казахский национальный медицинский университет имени С. Д. Асфендиярова",
+    brewery_type: "micro",
+    street: "ул. Толе Би 94",
+    city: "Алматы",
+    profession: "Медицина",
+    website_url: "https://api.kz/index.php/ru/",
+    updated_at: "2018-08-23T23:24:11.758Z",
+    tag_list: []
+  },
+  ]
